@@ -11,8 +11,9 @@ It is a Python project which helps physically disabled people to operate laptop/
 6. cv2
 
 ```
-
+```
 ## To Run the code
 
 In command prompt
 .. /path>python mouse-cursor-control.py
+```
